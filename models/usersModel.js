@@ -6,7 +6,7 @@ const users = [
     userUniqueId: "1",
   },
   {
-    userName: "Vanshita Jaiswal",
+    userName: "Vanshita",
     userEmail: "vanshita@gmail.com",
     userAge: "21",
     userUniqueId: "2",
